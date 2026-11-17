@@ -4,7 +4,7 @@
 
 ![Banner Placeholder](https://img.magnific.com/premium-vector/live-webinar-button-live-stream-logo-video-conference-icon_349999-711.jpg)
 
-[![Join Live Webinar Now](https://img.shields.io/badge/Join_Live_Webinar-Now-0a5d8d?style=for-the-badge&logo=github)](https://cairohicksnqqo.github.io/.github/live-webinar)
+[![Join Live Webinar Now](https://img.shields.io/badge/Join_Live_Webinar-Now-0a5d8d?style=for-the-badge&logo=github)](https://lives-webinar.github.io/.github/)
 
 ---
 
